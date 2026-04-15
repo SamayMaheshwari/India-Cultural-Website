@@ -1,6 +1,5 @@
 <br />
 <p align="center">
-    <img src="https://socialify.git.ci/niloysikdar/Get-Set-Go/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Logo" width="75%">
 
   <h1 align="center">Get Set Go</h1>
 
@@ -8,7 +7,7 @@
     It's time to explore the rich heritage and culture of India
     <br />
     <br />
-    <a href="https://niloysikdar.github.io/Get-Set-Go">View Demo</a>
+    <a href="https://india-cultural-website.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/niloysikdar/Get-Set-Go/issues">Report Bug</a>
     ·
