@@ -1,4 +1,3 @@
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
     <img src="https://socialify.git.ci/niloysikdar/Get-Set-Go/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Logo" width="75%">
@@ -111,7 +110,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ## License
 
-Distributed under the MIT License. See [`LICENSE`](https://github.com/niloysikdar/Get-Set-Go/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](https://india-cultural-website.vercel.app/) for more information.
 
 ## Contributors
 
